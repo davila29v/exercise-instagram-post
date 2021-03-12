@@ -1,0 +1,15 @@
+.post {position: relative; height: 600px; background: white;}
+.header {position: relative; height: 50px; background: white; vertical-align: baseline;}
+.photo {height: 300px; background: white; display: flex; justify-content: center; align-items: center;}
+.icons {position: relative;height: 50px; background: white;}
+.likes {position: relative;height: 50px; background: white; display: flex; align-items: center;}
+.description {position: relative; height: 150px; background: white; display: flex; display: flex; justify-content: center;}
+.generalWidth{width: 300px;}
+.htmlIcon {position: relative; display: inline-block; background: white; margin: 10px;}
+.titleDescription {position: relative; background: white;padding: auto;}
+.dots {float: right; margin: 10px;}
+.heart {display: inline-block; background: white; margin: 5px; margin-left: 15px;}
+.comments {display: inline-block; background: white; margin: 5px;}
+.send {display: inline-block; background: white; margin: 5px;}
+.save {float: right; background: white; margin: 5px; margin-right: 15px;}
+p {margin: 15px; text-align: justify;}
